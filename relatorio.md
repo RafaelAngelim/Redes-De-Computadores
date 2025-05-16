@@ -30,7 +30,7 @@ As medições foram realizadas utilizando o comando `iperf`.
 
 ### 3.1 Desempenho com 0% de perda de pacotes
 
-![Gráfico de comparação com 0% de perda de pacotes](0loss.jpg)
+![0% de perda de pacotes](0loss.jpg)
 
 #### Algoritmo **CUBIC**
 | Delay (ms) | Transferência (min/méd/max) | Banda (min/méd/max)        |
@@ -57,7 +57,7 @@ As medições foram realizadas utilizando o comando `iperf`.
 
 ### 3.2 Desempenho com 1% de perda de pacotes
 
-![Gráfico de comparação com 1% de perda de pacotes](1loss.jpg)
+![1% de perda de pacotes](1loss.jpg)
 
 #### Algoritmo **CUBIC**
 | Delay (ms) | Transferência (min/méd/max) | Banda (min/méd/max)        |
@@ -84,7 +84,7 @@ As medições foram realizadas utilizando o comando `iperf`.
 
 ### 3.3 Desempenho com 5% de perda de pacotes
 
-![Gráfico de comparação com 5% de perda de pacotes](5loss.jpg)
+![5% de perda de pacotes](5loss.jpg)
 
 #### Algoritmo **CUBIC**
 | Delay (ms) | Transferência (min/méd/max) | Banda (min/méd/max)        |

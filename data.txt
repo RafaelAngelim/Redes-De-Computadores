@@ -1,0 +1,465 @@
+cubic:
+0 ms de delay <-> 0% de loss
+h1      Transfer    Bandwith
+0-1 sec 2.03 GBytes 17.4 Gbits/s
+1-2 sec 1.99 GBytes 17.4 Gbits/s
+2-3 sec 1.06 GBytes 17.4 Gbits/s
+3-4 sec 1.85 GBytes 17.4 Gbits/s
+4-5 sec 1.85 GBytes 17.4 Gbits/s
+0-5 sec 10.5 GBytes 16.3 Gbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 2.82 GBytes 24.2 Gbits/s
+1-2 sec 2.83 GBytes 24.3 Gbits/s
+2-3 sec 1.07 GBytes 16.1 Gbits/s
+3-4 sec 2.09 GBytes 17.9 Gbits/s
+4-5 sec 1.98 GBytes 17.0 Gbits/s
+0-5 sec 12.2 GBytes 19.6 Gbits/s
+
+0 ms de delay <-> 1% de loss
+h1      Transfer    Bandwith
+0-1 sec 34.1 MBytes 286 Mbits/s
+1-2 sec 48.1 MBytes 404 Mbits/s
+2-3 sec 24.6 MBytes 207 Mbits/s
+3-4 sec 11.4 MBytes 95.4 Mbits/s
+4-5 sec 28.6 MBytes 240 Mbits/s
+0-5 sec 154 MBytes 225 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 12.5 MBytes 105 Mbits/s
+1-2 sec 7.88 MBytes 66.1 Mbits/s
+2-3 sec 3.12 MBytes 26.2 Mbits/s
+3-4 sec 4.12 MBytes 34.6 Mbits/s
+4-5 sec 6.50 MBytes 54.5 Mbits/s
+0-5 sec 36.1 MBytes 54.0 Mbits/s
+
+0 ms de delay <-> 5% de loss
+h1      Transfer    Bandwith
+0-1 sec 1.62 MBytes 13.6 Mbits/s
+1-2 sec 896 KBytes 7.34 Mbits/s
+2-3 sec 1.12 MBytes 9.44 Mbits/s
+3-4 sec 1.38 MBytes 11.5 Mbits/s
+4-5 sec 1.00 MBytes 8.39 Mbits/s
+0-5 sec 6.38 MBytes 9.01 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 2.50 MBytes 21.0 Mbits/s
+1-2 sec 768 KBytes 6.29 Mbits/s
+2-3 sec 256 KBytes 2.10 Mbits/s
+3-4 sec 1.12 MBytes 9.44 Mbits/s
+4-5 sec 768 KBytes 6.29 Mbits/s
+0-5 sec 6.25 MBytes 8.07 Mbits/s
+
+10 ms de delay <-> 0% de loss
+h1      Transfer    Bandwith
+0-1 sec 977 MBytes 8.20 Gbits/s
+1-2 sec 1.01 GBytes 8.72 Gbits/s
+2-3 sec 1.13 GBytes 9.69 Gbits/s
+3-4 sec 1.08 GBytes 9.26 Gbits/s
+4-5 sec 1.11 GBytes 9.53 Gbits/s
+0-5 sec 5.82 GBytes 9.13 Gbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 901 MBytes 7.56 Gbits/s
+1-2 sec 892 MBytes 7.49 Gbits/s
+2-3 sec 927 MBytes 7.78 Gbits/s
+3-4 sec 974 MBytes 8.12 Gbits/s
+4-5 sec 1009 MBytes 8.47 Gbits/s
+0-5 sec 5.12 GBytes 7.96 Gbits/s
+
+10 ms de delay <-> 1% de loss
+h1      Transfer    Bandwith
+0-1 sec 19.8 MBytes 166 Mbits/s
+1-2 sec 4.62 MBytes 38.8 Mbits/s
+2-3 sec 17.8 MBytes 149 Mbits/s
+3-4 sec 24.6 MBytes 207 Mbits/s
+4-5 sec 22.9 MBytes 192 Mbits/s
+0-5 sec 98.2 MBytes 148 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 30.1 MBytes 253 Mbits/s
+1-2 sec 23.4 MBytes 196 Mbits/s
+2-3 sec 10.5 MBytes 88.1 Mbits/s
+3-4 sec 23.9 MBytes 200 Mbits/s
+4-5 sec 11.5 MBytes 96.5 Mbits/s
+0-5 sec 104 MBytes 157 Mbits/s
+
+10 ms de delay <-> 5% de loss
+h1      Transfer    Bandwith
+0-1 sec 4.62 MBytes 38.8 Mbits/s
+1-2 sec 1.25 KBytes 10.5 Mbits/s
+2-3 sec 512 KBytes 4,19 Mbits/s
+3-4 sec 1.00 MBytes 8.39 Mbits/s
+4-5 sec 640 KBytes 5.24 Mbits/s
+0-5 sec 9.25 MBytes 12.4 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 1.62 MBytes 13.6 Mbits/s
+1-2 sec 640 KBytes 5.24 Mbits/s
+2-3 sec 1.88 MBytes 15.7 Mbits/s
+3-4 sec 384 KBytes 3.15 Mbits/s
+4-5 sec 384 KBytes 3.15 Mbits/s
+0-5 sec 5.38 MBytes 7.66 Mbits/s
+
+100 ms de delay <-> 0% de loss
+h1      Transfer    Bandwith
+0-1 sec 739 MBytes 6.20 Gbits/s
+1-2 sec 1.10 GBytes 9.46 Gbits/s
+2-3 sec 1.35 GBytes 11.6 Gbits/s
+3-4 sec 455 MBytes 3.82 Gbits/s
+4-5 sec 774 MBytes 6.50 Gbits/s
+0-5 sec 5.05 GBytes 8.01 Gbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 650 MBytes 5.45 Gbits/s
+1-2 sec 422 MBytes 3.54 Gbits/s
+2-3 sec 1020 MBytes 8.56 Gbits/s
+3-4 sec 773 MBytes 6.48 Gbits/s
+4-5 sec 1.05 MBytes 9.01 Gbits/s
+0-5 sec 4.64 MBytes 7.31 Gbits/s
+
+100 ms de delay <-> 1% de loss
+h1      Transfer    Bandwith
+0-1 sec 7.62 MBytes 64.0 Mbits/s
+1-2 sec 1.25 MBytes 10.5 Mbits/s
+2-3 sec 8.38 MBytes 70.3 Mbits/s
+3-4 sec 3.62 MBytes 30.4 Mbits/s
+4-5 sec 2.12 MBytes 17.8 Mbits/s
+0-5 sec 26.9 MBytes 38.7 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 16.5 MBytes 138 Mbits/s
+1-2 sec 8.38 MBytes 70.3 Mbits/s
+2-3 sec 8.62 MBytes 72.4 Mbits/s
+3-4 sec 3.88 MBytes 32.5 Mbits/s
+4-5 sec 5.62 MBytes 47.2 Mbits/s
+0-5 sec 46.8 MBytes 64.9 Mbits/s
+
+100 ms de delay <-> 5% de loss
+h1      Transfer    Bandwith
+0-1 sec 512 MBytes 38.8 Mbits/s
+1-2 sec 640 KBytes 10.5 Mbits/s
+2-3 sec 512 KBytes 4.19 Mbits/s
+3-4 sec 384 KBytes 8.39 Mbits/s
+4-5 sec 0.00 Bytes 0.00 bits/s
+0-5 sec 2.75 MBytes 3.71 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 1.38 MBytes 11.5 Mbits/s
+1-2 sec 1.25 KBytes 10.5 Mbits/s
+2-3 sec 640 KBytes 5.24 Mbits/s
+3-4 sec 768 KBytes 6.29 Mbits/s
+4-5 sec 768 KBytes 6.29 Mbits/s
+0-5 sec 5.12 MBytes 7.78 Mbits/s
+
+
+
+reno:
+0 ms de delay <-> 0% de loss
+h1      Transfer    Bandwith
+0-1 sec 1.33 GBytes 11.4 Gbits/s
+1-2 sec 1.36 GBytes 11.4 Gbits/s
+2-3 sec 1.67 GBytes 14.4 Gbits/s
+3-4 sec 1.56 GBytes 13.4 Gbits/s
+4-5 sec 1.60 GBytes 13.7 Gbits/s
+0-5 sec 8.21 GBytes 13.1 Gbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 1.78 GBytes 15.3 Gbits/s
+1-2 sec 2.77 GBytes 15.2 Gbits/s
+2-3 sec 1.74 GBytes 15.0 Gbits/s
+3-4 sec 1.73 GBytes 14.9 Gbits/s
+4-5 sec 1.73 GBytes 15.1 Gbits/s
+0-5 sec 12.2 GBytes 15.1 Gbits/s
+
+0 ms de delay <-> 1% de loss
+h1      Transfer    Bandwith
+0-1 sec 22.0 MBytes 185 Mbits/s
+1-2 sec 8.88 MBytes 74.4 Mbits/s
+2-3 sec 10.4 MBytes 87.0 Mbits/s
+3-4 sec 13.1 MBytes 110 Mbits/s
+4-5 sec 16.1 MBytes 135 Mbits/s
+0-5 sec 72.1 MBytes 105 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 15.1 MBytes 127 Mbits/s
+1-2 sec 11.0 MBytes 92.3 Mbits/s
+2-3 sec 20.0 MBytes 168 Mbits/s
+3-4 sec 1.88 MBytes 15.7 Mbits/s
+4-5 sec 7.50 MBytes 62.9 Mbits/s
+0-5 sec 61.0 MBytes 92.8 Mbits/s
+
+0 ms de delay <-> 5% de loss
+h1      Transfer    Bandwith
+0-1 sec 4.12 MBytes 34.6 Mbits/s
+1-2 sec 1.62 MBytes 13.6 Mbits/s
+2-3 sec 2.25 MBytes 18.9 Mbits/s
+3-4 sec 2.38 MBytes 19.9 Mbits/s
+4-5 sec 0.00 Bytes 0.00 bits/s
+0-5 sec 11.4 MBytes 14.9 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 6.62 MBytes 55.6 Mbits/s
+1-2 sec 1.62 MBytes 13.6 Mbits/s
+2-3 sec 1.00 MBytes 8.39 Mbits/s
+3-4 sec 1.00 MBytes 8.39 Mbits/s
+4-5 sec 1.00 MBytes 8.39 Mbits/s
+0-5 sec 11.9 MBytes 16.8 Mbits/s
+
+10 ms de delay <-> 0% de loss
+h1      Transfer    Bandwith
+0-1 sec 902 MBytes 7.56 Gbits/s
+1-2 sec 1.05 GBytes 8.98 Gbits/s
+2-3 sec 987 MBytes 8.28 Gbits/s
+3-4 sec 950 MBytes 7.97 Gbits/s
+4-5 sec 1005 MBytes 8.43 Gbits/s
+0-5 sec 5.22 GBytes 8.31 Gbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 892 MBytes 7.48 Gbits/s
+1-2 sec 1.02 GBytes 8.79 Gbits/s
+2-3 sec 1.06 GBytes 9.15 Gbits/s
+3-4 sec 1.09 GBytes 9.35 Gbits/s
+4-5 sec 1.02 GBytes 8.74 Gbits/s
+0-5 sec 5.12 GBytes 8.28 Gbits/s
+
+10 ms de delay <-> 1% de loss
+h1      Transfer    Bandwith
+0-1 sec 36.4 MBytes 305 Mbits/s
+1-2 sec 24.2 KBytes 203 Mbits/s
+2-3 sec 24.9 MBytes 209 Mbits/s
+3-4 sec 15.6 MBytes 131 Mbits/s
+4-5 sec 15.6 MBytes 230 Mbits/s
+0-5 sec 144 MBytes 216 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 39.9 MBytes 334 Mbits/s
+1-2 sec 23.1 MBytes 194 Mbits/s
+2-3 sec 38.9 MBytes 326 Mbits/s
+3-4 sec 21.9 MBytes 184 Mbits/s
+4-5 sec 31.2 MBytes 259 Mbits/s
+0-5 sec 174 MBytes 259 Mbits/s
+
+10 ms de delay <-> 5% de loss
+h1      Transfer    Bandwith
+0-1 sec 2.88 MBytes 24.1 Mbits/s
+1-2 sec 1.50 KBytes 12.6 Mbits/s
+2-3 sec 1.50 KBytes 12.6 Mbits/s
+3-4 sec 1.12 MBytes 9.44 Mbits/s
+4-5 sec 768 KBytes 6.29 Mbits/s
+0-5 sec 10.4 MBytes 14.6 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 256 KBytes 2.10 Mbits/s
+1-2 sec 2.12 MBytes 17.8 Mbits/s
+2-3 sec 3.00 MBytes 25.1 Mbits/s
+3-4 sec 2.75 MBytes 23.1 Mbits/s
+4-5 sec 2.88 MBytes 24.1 Mbits/s
+0-5 sec 12.1 MBytes 17.3 Mbits/s
+
+100 ms de delay <-> 0% de loss
+h1      Transfer    Bandwith
+0-1 sec 1.11 GBytes 9.53 Gbits/s
+1-2 sec 1.37 GBytes 11.8 Gbits/s
+2-3 sec 1.40 GBytes 12.1 Gbits/s
+3-4 sec 631 MBytes 5.29 Gbits/s
+4-5 sec 295 MBytes 2.47 Gbits/s
+0-5 sec 5.85 GBytes 7.27 Gbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 1.37 GBytes 11.8 Gbits/s
+1-2 sec 1.32 GBytes 11.4 Gbits/s
+2-3 sec 1.28 GBytes 11.0 Gbits/s
+3-4 sec 1.36 GBytes 11.7 Gbits/s
+4-5 sec 1.42 GBytes 12.2 Gbits/s
+0-5 sec 7.03 GBytes 11.3 Gbits/s
+
+100 ms de delay <-> 1% de loss
+h1      Transfer    Bandwith
+0-1 sec 4.62 MBytes 38.8 Mbits/s
+1-2 sec 5.25 MBytes 44.0 Mbits/s
+2-3 sec 15.1 MBytes 127 Mbits/s
+3-4 sec 5.50 MBytes 46.1 Mbits/s
+4-5 sec 5.88 MBytes 49.3 Mbits/s
+0-5 sec 42.2 MBytes 61.3 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 13.5 MBytes 113 Mbits/s
+1-2 sec 13.9 MBytes 116 Mbits/s
+2-3 sec 5.50 MBytes 46.1 Mbits/s
+3-4 sec 16.8 MBytes 141 Mbits/s
+4-5 sec 8.25 MBytes 69.2 Mbits/s
+0-5 sec 71.1 MBytes 94.6 Mbits/s
+
+100 ms de delay <-> 5% de loss
+h1      Transfer    Bandwith
+0-1 sec 2.50 MBytes 21.0 Mbits/s
+1-2 sec 1.50 KBytes 12.6 Mbits/s
+2-3 sec 0.00 Bytes 0.00 bits/s
+3-4 sec 512 KBytes 4.19 Mbits/s
+4-5 sec 640 KBytes 5.24 bits/s
+0-5 sec 5.88 MBytes 8.67 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 3.25 MBytes 27.3 Mbits/s
+1-2 sec 640 KBytes 5.24 Mbits/s
+2-3 sec 1.38 MBytes 11.5 Mbits/s
+3-4 sec 512 KBytes 4.19 Mbits/s
+4-5 sec 1.25 MBytes 10.5 Mbits/s
+0-5 sec 8.75 MBytes 12.7 Mbits/s
+
+
+
+vegas:
+0 ms de delay <-> 0% de loss
+h1      Transfer    Bandwith
+0-1 sec 1.83 GBytes 15.7 Gbits/s
+1-2 sec 1.73 GBytes 14.9 Gbits/s
+2-3 sec 1.80 GBytes 15.4 Gbits/s
+3-4 sec 1.98 GBytes 17.0 Gbits/s
+4-5 sec 2.06 GBytes 17.7 Gbits/s
+0-5 sec 10.2 GBytes 16.5 Gbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 1.82 GBytes 15.6 Gbits/s
+1-2 sec 2.04 GBytes 17.5 Gbits/s
+2-3 sec 2.20 GBytes 10.9 Gbits/s
+3-4 sec 1.86 GBytes 16.0 Gbits/s
+4-5 sec 1.85 GBytes 15.9 Gbits/s
+0-5 sec 10.7 GBytes 16.7 Gbits/s
+
+0 ms de delay <-> 1% de loss
+h1      Transfer    Bandwith
+0-1 sec 33.6 MBytes 282 Mbits/s
+1-2 sec 4.88 MBytes 40.9 Mbits/s
+2-3 sec 6.25 MBytes 52.4 Mbits/s
+3-4 sec 26.8 MBytes 224 Mbits/s
+4-5 sec 8.52 MBytes 72.4 Mbits/s
+0-5 sec 85.0 MBytes 129 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 36.8 MBytes 308 Mbits/s
+1-2 sec 13.1 MBytes 110 Mbits/s
+2-3 sec 7,25 MBytes 60.8 Mbits/s
+3-4 sec 16.0 MBytes 134 Mbits/s
+4-5 sec 10.2 MBytes 86 Mbits/s
+0-5 sec 89.1 MBytes 131 Mbits/s
+
+0 ms de delay <-> 5% de loss
+h1      Transfer    Bandwith
+0-1 sec 7.62 MBytes 64.0 Mbits/s
+1-2 sec 0.00 Bytes 0.00 bits/s
+2-3 sec 1.50 MBytes 12.6 Mbits/s
+3-4 sec 1.12 MBytes 9.44 Mbits/s
+4-5 sec 640 KBytes 5.24 Mbits/s
+0-5 sec 11.9 MBytes 15.5 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 6.12 MBytes 51.4 Mbits/s
+1-2 sec 256 KBytes 2.10 Mbits/s
+2-3 sec 512 KBytes 4.19 Mbits/s
+3-4 sec 1.12 MBytes 9.44 Mbits/s
+4-5 sec 1.38 MBytes 11.5 Mbits/s
+0-5 sec 10.1 MBytes 15.3 Mbits/s
+
+10 ms de delay <-> 0% de loss
+h1      Transfer    Bandwith
+0-1 sec 547 MBytes 4.59 Gbits/s
+1-2 sec 653 MBytes 5.48 Gbits/s
+2-3 sec 705 MBytes 5.91 Gbits/s
+3-4 sec 795 MBytes 6.67 Gbits/s
+4-5 sec 843 MBytes 7.07 Gbits/s
+0-5 sec 3.79 GBytes 6.05 Gbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 882 MBytes 7.40 Gbits/s
+1-2 sec 542 MBytes 4.55 Gbits/s
+2-3 sec 772 MBytes 6.47 Gbits/s
+3-4 sec 871 MBytes 7.31 Gbits/s
+4-5 sec 862 MBytes 7.23 Gbits/s
+0-5 sec 4.29 GBytes 6.70 Gbits/s
+
+10 ms de delay <-> 1% de loss
+h1      Transfer    Bandwith
+0-1 sec 46.5 MBytes 390 Mbits/s
+1-2 sec 17.2 MBytes 145 Mbits/s
+2-3 sec 19.6 MBytes 156 Mbits/s
+3-4 sec 37.2 MBytes 312 Mbits/s
+4-5 sec 28.1 MBytes 236 Mbits/s
+0-5 sec 164 MBytes 244 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 46.8 MBytes 392 Mbits/s
+1-2 sec 27.2 MBytes 229 Mbits/s
+2-3 sec 19.4 MBytes 163 Mbits/s
+3-4 sec 17.8 MBytes 149 Mbits/s
+4-5 sec 20.9 MBytes 175 Mbits/s
+0-5 sec 154 MBytes 220 Mbits/s
+
+10 ms de delay <-> 5% de loss
+h1      Transfer    Bandwith
+0-1 sec 1.75 MBytes 14.7 Mbits/s
+1-2 sec 512 KBytes 4.19 Mbits/s
+2-3 sec 0.00 Bytes 0.00 bits/s
+3-4 sec 640 KBytes 5.24 Mbits/s
+4-5 sec 768 KBytes 6.29 Mbits/s
+0-5 sec 4.38 MBytes 6.21 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 640 KBytes 5.24 Mbits/s
+1-2 sec 896 KBytes 7.34 Mbits/s
+2-3 sec 2.12 MBytes 17.8 Mbits/s
+3-4 sec 128 KBytes 1.05 Mbits/s
+4-5 sec 768 KBytes 6.29 Mbits/s
+0-5 sec 5.75 MBytes 7.72 Mbits/s
+
+100 ms de delay <-> 0% de loss
+h1      Transfer    Bandwith
+0-1 sec 60.9 MBytes 511 Mbits/s
+1-2 sec 6.62 MBytes 55.6 Mbits/s
+2-3 sec 7.25 MBytes 60.8 Mbits/s
+3-4 sec 7.25 MBytes 60.8 Mbits/s
+4-5 sec 3.88 MBytes 32.5 Mbits/s
+0-5 sec 89.8 MBytes 140 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 8.62 MBytes 72.4 Mbits/s
+1-2 sec 6.62 MBytes 55.6 Mbits/s
+2-3 sec 384 KBytes 3.15 Mbits/s
+3-4 sec 3.00 MBytes 25.2 Mbits/s
+4-5 sec 2.38 MBytes 19.9 Mbits/s
+0-5 sec 21.8 MBytes 33.9 Mbits/s
+
+100 ms de delay <-> 1% de loss
+h1      Transfer    Bandwith
+0-1 sec 33.8 MBytes 283 Mbits/s
+1-2 sec 2.88 MBytes 24.1 Mbits/s
+2-3 sec 4.75 MBytes 39.8 Mbits/s
+3-4 sec 4.75 MBytes 39.8 Mbits/s
+4-5 sec 8.62 MBytes 72.4 Mbits/s
+0-5 sec 55.8 MBytes 84.1 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 10.0 MBytes 83.9 Mbits/s
+1-2 sec 5.12 MBytes 42.0 Mbits/s
+2-3 sec 6.00 MBytes 50.3 Mbits/s
+3-4 sec 4.62 MBytes 38.8 Mbits/s
+4-5 sec 8.75 MBytes 73.4 Mbits/s
+0-5 sec 39.5 MBytes 60.9 Mbits/s
+
+100 ms de delay <-> 5% de loss
+h1      Transfer    Bandwith
+0-1 sec 2.25 MBytes 18.9 Mbits/s
+1-2 sec 640 KBytes 5.24 Mbits/s
+2-3 sec 768 KBytes 6.29 Mbits/s
+3-4 sec 896 KBytes 7.34 Mbits/s
+4-5 sec 384 KBytes 3.15 Mbits/s
+0-5 sec 5.38 MBytes 7.45 Mbits/s
+
+h2      Transfer    Bandwith
+0-1 sec 2.62 MBytes 22.0 Mbits/s
+1-2 sec 1.12 KBytes 9.44 Mbits/s
+2-3 sec 256 KBytes 2.10 Mbits/s
+3-4 sec 1.38 MBytes 11.5 Mbits/s
+4-5 sec 256 KBytes 2.10 Mbits/s
+0-5 sec 6.12 MBytes 8.53 Mbits/s

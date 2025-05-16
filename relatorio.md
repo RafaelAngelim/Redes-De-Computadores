@@ -112,14 +112,14 @@ As medições foram realizadas utilizando o comando `iperf`.
 ## 4. Discussão
 
 ### Qual algoritmo se comporta melhor em cenários com alta latência?
-O algoritmo **CUBIC** apresentou melhor desempenho em situações de alta latência (100 ms). Ele manteve uma largura de banda mais estável e consistente em comparação aos outros algoritmos.
+O algoritmo **CUBIC** um desempenho melhor em situações de alta latência (100 ms). Ele manteve uma largura de banda mais estável e consistente em comparação aos outros algoritmos.
 
-O algoritmo **VEGAS**, embora tenha apresentado desempenho inferior ao **CUBIC**, mostrou-se eficiente em cenários de baixa latência, mas sua performance caiu significativamente com o aumento do delay.
+O algoritmo **VEGAS**, embora tenha apresentado desempenho inferior ao **CUBIC**, continua sendo efetivo em baixa latência, mas sua performance caiu com o aumento do delay.
 
 ### Qual algoritmo se adapta melhor à perda?
-O algoritmo **RENO** demonstrou maior resiliência em cenários com perda de pacotes, mantendo uma largura de banda relativamente alta mesmo em condições ruins.
+O algoritmo **RENO** demonstrou maior consistência em cenários com perda de pacotes, mantendo uma largura de banda relativamente alta mesmo em condições ruins.
 
-O algoritmo **VEGAS** teve dificuldades em lidar com cenários de alta perda de pacotes, apresentando uma queda acentuada na largura de banda.
+O algoritmo **VEGAS** teve dificuldades em lidar com cenários de alta perda de pacotes, apresentando uma queda na largura de banda.
 
 ### Como a combinação de delay e loss afeta a performance?
 A combinação de **alta latência** e **alta perda de pacotes** resultou em uma piora grande no desempenho de todos os algoritmos. No entanto:
